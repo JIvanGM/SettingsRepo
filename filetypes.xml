@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="ttf" type="Native" />
+      <mapping pattern="indieflower" type="XML" />
+      <mapping ext="kml" type="XML" />
+    </extensionMap>
+  </component>
+</application>

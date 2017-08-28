@@ -1,0 +1,21 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.seccionamarilla.com" />
+          <option name="userName" value="ivan.garcia" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.seccionamarilla.com/android_pinbox/android_pinbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.seccionamarilla.com/seccionamarilla_android/seccionamarilla_android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/AndroidStudioProyects/GitStudioProyects/SA" />
+  </component>
+</application>

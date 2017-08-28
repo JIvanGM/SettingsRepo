@@ -9,9 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e261dda-8663-4ad2-9d93-5b4ff99b2ab3" name="Default" comment="commit">
+    <list default="true" id="2e261dda-8663-4ad2-9d93-5b4ff99b2ab3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/debugger.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/seccion/amarilla/menumania/Customactivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/seccion/amarilla/menumania/Customactivity.java" />
     </list>
     <ignored path="Menumania.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -2335,7 +2335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1503958735835</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <created>1503958892039</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1503958892039</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2520,6 +2527,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debugger.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

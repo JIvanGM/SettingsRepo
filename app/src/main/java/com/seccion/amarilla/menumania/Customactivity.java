@@ -6,5 +6,10 @@ package com.seccion.amarilla.menumania;
 
 public class Customactivity {
     public Customactivity() {
+        print();
+    }
+
+    public void print(){
+
     }
 }

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_47e42ad4e5ab3eb222234814f19b7afa33da1410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/db893dccb24cc61eb862d2f2519c93e1419bf1f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91d9aab5ba3dc8edd474fcee8ebc435ef7f06c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_bff5af678e8c4a3247a08fa038430e29a70f9ce5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/dc54300128a60cfd3801e6a349aabfd78cc6be2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6399a05616a7672df8ecb2d0def63f4ba0b45143/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f39fd3af91c2d366db5d029621f2919b40a24709">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f4db1e8671297bed870450b76388ac449f6253a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/cbe92170a8c87dfdba12b40c4705a807bc90ecb0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed9a13eb672fb25fcee1c1c923b628e216c478a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/6425715dbf171840aa72a2a2b7f786b88bb2fb10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afd74a6d80a839b8fa1006fa5790ee879929b16f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/40b38dd79bec6cecb0fd4b6c1d7539427a270397/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_497fc6944b3b156d31fc4b0614f2c1848ccb418c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/b686303aa3f4b66a6f697bc210e7b82824c21041/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98fa8f1fd2972b63ebfcd6167a99e771d520af95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/ec7d6023bfcbd3a9fab2ddee83f4c78f32459d6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70ce6d588dcbf7734b51f300fa8ad79c3c91a345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_dd34b30617642f338bdedaebb71e2289cd736ebb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/2204cfa308e3411a78725ee1101fbb1aa183e542/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13ef22ed6a2b110eab1953d14d9d1caca7145ad7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/56201da60c4be2f774f64117cc72024988250c91/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92860c93f521ba198ee0fcb970317a5fccf294c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac-aldogodinez/.android/build-cache/970601216d1b07421da4a047ca2657f0cf74a787/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mac-aldogodinez/Documents/AndroidStudioProyects/GitStudioProyects/Menumania/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e5279b66e4acb96fe2e8044298d11ffcd675397/classes.dex" />
+    </item>
+
+</items>
